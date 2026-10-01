@@ -1,0 +1,3 @@
+npm notice run living-tribunal@1.0.0 start
+npm notice run node dist/index.js
+living-tribunal MCP server listening on http://localhost:3000/mcp

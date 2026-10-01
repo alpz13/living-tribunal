@@ -1,0 +1,16 @@
+npm notice run living-tribunal@1.0.0 test
+npm notice run vitest run
+
+ RUN  v5.0.2 C:/Users/aleja/Documents/living-tribunal
+
+ ✓ src/__test__/anthropic-client.spec.ts (4 tests) 4ms
+ ✓ src/__test__/tribunal.spec.ts (9 tests) 21ms
+ ✓ src/__test__/index.spec.ts (5 tests) 117ms
+
+ Test Files  3 passed (3)
+      Tests  18 passed (18)
+   Start at  22:30:56
+   Duration  358ms (import 44%, tests 37%, transform 17%, worker 2%)
+
+ HTML  Report is generated
+       You can run npx vite preview --outDir html-report to see the test results.
